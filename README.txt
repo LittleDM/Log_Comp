@@ -1,0 +1,1 @@
+The following is a case study (and my solution) from the course on Logic and Computational Thinking offered by Microsoft through edX. I strongly propose it to anyone interested in getting into programming!
